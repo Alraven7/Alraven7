@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @Alraven7
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Alraven7/Alraven7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->👀 I’m interested in Sparrow Wallet. Something went wrong and is not sending Bitcoin to any wallet
+🌱 I’m currently learning how to it works but its not working for me
+💞️ I’m looking to collaborate on Sparrow 
+📫 Email me at alberto.reynafarje@gmail.com
+⚡ Fun fact: I have Bitcoin on my Tangem Wallet but because it's going to $1,000,000 I am looking to move it😉 
+
+
+
